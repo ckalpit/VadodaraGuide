@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#2fa62eff"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.unb.mayur.vadodara_guide.About_vadodara">
+
+
+
+
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+
+        android:weightSum="1"
+        android:orientation="vertical"
+
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+
+         android:layout_weight="0.35"
+            android:src="@drawable/about_city"
+            android:id="@+id/imageView2"
+
+            android:cropToPadding="false"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY">
+
+        </ImageView>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.65"
+            android:layout_height="0dp">
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+               android:orientation="vertical"
+                android:layout_height="match_parent">
+
+        <TextView
+        android:text="Culture:" android:layout_width="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal" />
+
+        <TextView
+        android:layout_margin="10dp"
+        android:text="Vadodara is the cultural capital of Gujarat where all traditional festivals are celebrated in a unique way. Vadodara is also known as Sanskari Nagari, i.e. Cultured City and according to the Gujurat tourism authority is the most sought after location for the dance style known as garba in the entire world. Vadodara is one of India's most cosmopolitan cities. Thanks to the vision and broadmindedness of the Gaekwads, the subsequent industrialisation, the proliferation of academic activities and a strategically important geographical location, Vadodara has welcomed a wide variety of people from all over India and also from all over the world.\n\n" android:layout_width="wrap_content"
+        android:textSize="17dp"
+        android:layout_height="wrap_content" />
+
+        <TextView
+        android:layout_margin="10dp"
+        android:text="Geography:"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_margin="10dp"
+        android:text="Vadodara is located at 22.30°N 73.19°E in western India at an elevation of 39 metres (128 ft). It is the 18th largest city in India with an area of 235 square kilometres (91 sq mi) and a population of 4.1 million according to the 2010–11 census. The city sits on the banks of the Vishwamitri River, in central Gujarat. The Vishwamitri frequently dries up in the summer, leaving only a small stream of water. The city is located on the fertile plain between the Mahi and Narmada Rivers. According to the Bureau of Indian Standards, the town falls under seismic zone-III, in a scale of I to V\n\n"
+        android:layout_width="wrap_content"
+        android:textSize="17dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_margin="10dp"
+        android:text="Climate:" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:text="Vadodara features a tropical savanna climate. The weather is hot through the months of March to July – the average summer maximum is 40 °C (104 °F), and the average minimum is 23 °C (73 °F). From November to February, the average maximum temperature is 30 °C (86 °F), the average minimum is 15 °C (59 °F), and the climate is extremely dry. Cold northerly winds are responsible for a mild chill in January. The southwest monsoon brings a humid climate from mid-June to mid-September. The average rainfall is 93 cm (37 in), but infrequent heavy torrential rains cause the river to flood.\n\n" android:layout_width="wrap_content"
+        android:textSize="17dp"
+        android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,106 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:background="#E8F5E9"
+    android:layout_height="fill_parent"
+    tools:context="com.unb.mayur.theam_listview.detail"
+    android:orientation="vertical"
+
+    >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:weightSum="1"
+        android:layout_height="match_parent">
+
+
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.35"
+            android:src="@drawable/i_museum"
+            android:id="@+id/imageView2"
+
+            android:cropToPadding="false"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+
+
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.65"
+            android:layout_height="0dp">
+
+            <Button
+                android:layout_width="fill_parent"
+
+
+                android:layout_height="wrap_content"
+                android:text="Get Direction "
+                android:id="@+id/button"
+                android:onClick="Show_map"
+                android:layout_margin="10dp"
+                />
+
+            <ScrollView
+
+
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+
+                android:background="@android:color/transparent"
+
+                android:id="@+id/scrollView">
+
+
+
+                <TextView
+
+                    android:textSize="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="The famous museum was built in 1894 on the lines of Victoria and Albert and Science Museums of London. Major Mant in association with R.F. Chisholm who refined some of Mants finest works to make genuine Indo-Saracenic architecture designed the Building of this Museum. It preserves a rich collection of art, sculpture, ethnography and ethnology. Several of the paintings are not only original but masterpieces at the picture gallery. The picture gallery which offers an excellent collection of originals by famous British painters Turner and constable and many others attract tourists from every part of the country. The Egyptian mummy and skeleton of a blue whale are major attractions for those who visit the museum. Other treasure includes the famous Akota bronzes dating the 5th Century AD, A collection of Mughal miniatures, a full-fledged gallery of Tibetan Art and oils by several European masters.
+Maharaja Sayajirao Gaekwad III belonging to the Gaekwad dynasty of the Marathas founded the museum in 1887. The museum building was completed in 1894, when it opened to the public. Construction of the art gallery commenced in 1908, was completed in 1914, but did not open until 1921 as the First World War delayed transfer of pieces from Europe intended for the gallery
+"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="00dp"
+                    android:layout_marginRight="00dp"
+                    android:padding="10dp"
+
+
+                    android:id="@+id/tv"
+
+
+
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentTop="true"
+                    style="@style/AppTheme"
+                    android:background="@android:color/transparent"
+                    android:elegantTextHeight="false"
+                    android:focusable="true"
+                    android:fontFamily="@string/abc_searchview_description_submit"
+                    android:outlineProvider="paddedBounds"
+                    android:shadowColor="#ff87ffc8"
+                    android:singleLine="false"
+                    android:textColor="#ff000000" />
+            </ScrollView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+

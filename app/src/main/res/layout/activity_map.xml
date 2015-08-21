@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="0dp"
+    android:layout_height="match_parent"
+    tools:context="com.nathan.trackrun.FragmentMap"
+ >
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/location_map"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:apiKey="AIzaSyDisCw9ERJEmPPfAei8kqODg3nq1E8QcQM"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+
+
+    <Button
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Direction "
+        android:id="@+id/button"
+        android:layout_gravity="bottom"
+        android:layout_margin="10dp"
+
+        />
+
+
+
+
+</FrameLayout>

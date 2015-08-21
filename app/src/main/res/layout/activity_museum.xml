@@ -1,0 +1,108 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#2fffd109"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.unb.mayur.theam_listview.detail"
+    android:orientation="vertical"
+
+    >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:weightSum="1"
+        android:layout_height="match_parent">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.35"
+                android:src="@drawable/i_cricket"
+                android:id="@+id/imageView2"
+
+                android:cropToPadding="false"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+
+
+                />
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+   android:layout_weight="0.65"
+    android:layout_height="0dp">
+
+            <Button
+                android:layout_width="fill_parent"
+
+
+                android:layout_height="wrap_content"
+                android:text="Get Direction "
+                android:id="@+id/button"
+                android:onClick="Show_map"
+                android:layout_margin="10dp"
+                />
+
+        <ScrollView
+
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+
+            android:background="@android:color/transparent"
+
+            android:id="@+id/scrollView">
+
+
+
+
+        <TextView
+
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textAppearance="?android:attr/textAppearanceLarge"
+
+                android:text="Moti Bagh Stadium is a cricket stadium located in Vadodara, Gujarat.
+The ground form part of the Lakshmi Vilas Palace building complex - a spawling 700-acre (2.8 km2) complex in the heart of the city. The palace and the stadium, earlied belonged to the former rulers of Baroda and the patrons of cricket in Baroda - the Gaekwad.
+The stadium has a seating capacity of 18,000 people. The use of the stadium for International cricket has been discontinued in favour of IPCL Sports Complex Ground.
+One of the four first-class and two international grounds in Vadodara, the IPCL Sports Complex Ground is part of the sprawling IPCL complex, situated about 10 kilometers from the city centre. The ground was owned and maintained by the Reliance Industries and has taken preference over the oldest cricket ground in Asia the Moti Bagh Stadium for ODIs.
+The batsmen have traditionally enjoyed this high-scoring venue with a true wicket that holds up throughout the length of a 50-over game.
+"
+             android:layout_marginTop="10dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="00dp"
+                android:layout_marginRight="00dp"
+                android:padding="10dp"
+
+
+                android:id="@+id/tv"
+
+
+
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                style="@style/AppTheme"
+                android:background="@android:color/transparent"
+                android:elegantTextHeight="false"
+                android:focusable="true"
+                android:fontFamily="@string/abc_searchview_description_submit"
+                android:outlineProvider="paddedBounds"
+                android:shadowColor="#ff87ffc8"
+                android:singleLine="false"
+                android:textColor="#ff000000" />
+
+        </ScrollView>
+
+        </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>
+

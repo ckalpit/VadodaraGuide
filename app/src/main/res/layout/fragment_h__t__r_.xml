@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.unb.mayur.diutourism.How_To_Reach">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="By Train:"
+                android:id="@+id/textView3"
+                android:layout_alignParentTop="true"
+
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Vadodara junction is Gujarat's busiest junction with almost 150 trains passing through every day. Passengers can travel to almost all the parts of India from Vadodara Junction, where there is a junction from the directions of Ahmedabad, Mumbai, Delhi and Kota (all four directions). It has one of the largest electric locomotives sheds in Gujarat and various trains have a loco change over at Vadodara. Trains such as Rajdhani, Shatabdi, Duranto and important mail/express trains halt at Vadodara Junction. Apart from various small railway stations Vadodara has 10 major railway stations namely Vadodara Junction (BRC'), Pratapnagar, Vishwamitri, Makarpura, Karajan (Miyagaon), Itola, Varnama, Bajwa, Ranoli and Nandesari. \n"
+                android:id="@+id/textView4"
+                android:layout_below="@+id/textView3"
+
+
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="By Air:"
+                android:id="@+id/textView5"
+                android:layout_alignParentTop="true"
+
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Vadodara Airport (IATA: BDQ) is located north-east of the city. Vadodara has air connectivity with Mumbai, New Delhi,Kolkatta, Bangalore and Hyderabad. Vadodara is set to have an International Airport in near future.\n
+"
+                android:id="@+id/textView6"
+                android:layout_below="@+id/textView3"
+
+
+                />
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="By Road:"
+                android:id="@+id/textView9"
+                android:layout_alignParentTop="true"
+
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="National Highway 8, connecting Delhi and Gandhinagar with Ahmedabad to Mumbai, passes through the city. Vadodara is also connected with Ahmedabad through Indian National Expressway 1, a 97 kilometres (60 mi) stretch of super highway with exits at Anand, Nadiad, S.P.Ring Road and finally Ahmedabad. In the near future, this expressway will be extended southwards from Vadodara all the way up to Mumbai. The necessary land acquisition work is in progress and the government has placed the project on a fast track priority.\n
+"
+                android:id="@+id/textView7"
+                android:layout_below="@+id/textView3"
+
+
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

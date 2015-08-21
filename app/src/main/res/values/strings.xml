@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vadodara Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_section1">Get to know</string>
+    <string name="title_section2">City Guide</string>
+    <string name="title_section3">Tourist Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+    <string-array name="Food_array">
+        <item>            One of the best mouth watering dabelis served in Vadodara,one of its first kind of dabelis served like ice-cold dabeli, mango dolly dabeli, chocolate dabeli and many more you can have, all from this one place.\n\n
+
+            Contact Details:\n
+            B-17 Sahajanand Apartment, Ayurvedic 3 Rasta, Outside Panigate, Vadodara-390019\n
+            +91 9428978604\n
+            www.bhaibhaidabeliwala.com
+
+ Timing: 11:00Am - 8:30Pm\n</item>
+        <item>        Undoubtedly the finest and most delicious Sevusal served in Vadodara. Its smoking red hot "tari" is very famous, other famous items include masala sev and many varieties of Sevusal.\n\n
+
+
+            Contact Details:\n
+            G.F. 14/15, Prathmesh Plaza. B/h. Nehru Bhuvan Kirtisthamb, Vadodara-39001\n
+            0265-6561963\n+91 9824463773\n+91 9712001963\n
+            psane45@gmail.com\n
+            Timing: 8:30:00AM - 9:30PM\n</item>
+        <item>        Undoubtedly the finest and most delicious Sevusal served in Vadodara. Its smoking red hot "tari" is very famous, other famous items include masala sev and many varieties of Sevusal.\n\n
+                Contact Details:\n
+                G.F. Pujar Complex, Opp. Golden Silver Complex,Shubhanpura Main Road,Vadodara\n
+                +91 09033531794\n +91 8141831216\n
+                psane45@gmail.com\n
+                Timing: 9:00:00AM - 8:00PM\n</item>
+        <item>            As the name goes, this Maharashtrian fastfood item has carved its niche into the hearts of people of Vadodara, thanks to Tasty Vadapav :)\n\n
+
+            Contact Details:\n
+            Viren Apt., Near 7 Seas Mal, Opp. Nindra Hotel, FatehGunj Circle, Vadodara\n
+            +91 99254 59033\n +91 9898070831\n
+            rakeshsaroj1@yahoo.com\n
+            Timing: 9:00:00AM - 8:00PM\n</item>
+        <item>        For all those foodbuffs who go for some varieties, the samosa-sandwiches are here. Indeed the finest sandwiches which pamper your tastebuds.\n\n
+
+         Contact Details:\n
+        Opp. Express Hotel, Alkapuri, Vadodara\n
+            +91 9427838197\n +91 9601048966\n
+            +91 8469397969\n +91 9724154048\n
+            Timing:10AM - 8:30PM\n</item>
+        <item>            The only place in Vadodara having an exotic all-maggi items in its menu. The auroma of crispy maggi, schezwan maggi,bellpepper maggi and a lot more tempts you. Also equally famous are its Cold Coffee with creamy toppings and sizzlers.\n\n
+
+            Contact Details:\n
+            Fatehgunj Main Road,Vadodara\n
+            +91 9879557553\n
+            maggiwala17@live.com\n
+            Timing:10AM - 10:00PM\n</item>
+        <item>        The only place in Vadodara having an exotic all-maggi items in its menu. The auroma of crispy maggi, schezwan maggi,bellpepper maggi and a lot more tempts you. Also equally famous are its Cold Coffee with creamy toppings and sizzlers.\n\n
+
+        Contact Details:\n
+       G-1/Aditya apt. Near Havmor, Old Padara Road, Vadodara\n
+        +91 9825381585\n
+        maggiwala17@live.com\n
+        Timing:11AM - 11:00PM\n</item>
+        <item>        The exact address for fresh juices and scrumptious thick shakes. Served here famous is its special dryfruit lassi, ferrero thick shake, fruit and nut thick shake and lot more.\n\n
+
+        Contact Details:\n
+        Nvrang Appartment, Fatehgunj Main Road, Opp. frigtemp, Vadodara\n
+        +91 9033501961\n +91 7383666939\n +91 9879181881\n
+        ravi81881@yahoo.com\n
+         Timing:10:30AM - 12:30PM\n</item>
+        <item>            A suitable place for Pav Bhaji lovers, this place has become quite a popular one in the majority students inhabited area of Vadodara.\n\n
+
+          Contact Details:\n
+         1-Shakuntal complex, Kaladarshan Char Rasta, Waghodia Road, Vadodara\n
+         +91 9879595851\n +91 9638515789\n
+         shyamshah304@gmail.com\n
+         Timing:6:00PM - 11:00PM\n</item>
+        <item>        Known for its Kathiyawadi and Punjabi food in the waghodia road area, it offers some of the really nice Kathiyawadi as well as Punjabi dishes.\n\n
+
+         Contact Details:\n
+         Shantinagar Socity, Opp. Mehta Girls Hostel, Vrundavan Char Rasta, Waghodia Road, Vadodara\n
+         +91 9879595851\n +91 9824419389\n
+         shyamshah304@gmail.com\n
+         Timing: 11:30AM - 2:30PM, 6:30PM - 11:00PM\n</item>
+        <item>        Very famous in the Uma and Vrundavan areas, Anadi Khaman specializes in Samosas,Khaman and Sev-khamani.\n\n
+
+         Contact Details:\n
+         12,Aditya Avenu, Mahavir Hall Char Rasta, Ajwa Road, Vadodara\n
+         +91 9979040441\n
+
+         Timing: 8:00AM - 8:00PM\n</item>
+        <item>        The mouth watering spicy cuisine of Hyderabad is been equally loved here too in Vadodara. The HYDERABADIS offer you with delicious Veg as well as non-veg cuisines like Dum Biryani, Chicken Biryani, and Desserts.\n\n
+
+         Contact Details:\n
+        Shop no 4,Shreyas Appartment,Near Fatehgunj Petrol Pump, Fatehgunj, Vadodara\n
+         +91 7874053334\n +91 9099973376\n
+        damarajugovind@gmail.com\n
+         Timing: 12:00PM - 11:00PM \n</item>
+        <item>        Vadodaras most famous PAN Shop offers you their best Pans like NRI Special Dry Pan, ice-cream flavoured pan, Cadbury Pan and numerous other varieties of pan.\n\n
+
+         Contact Details:\n
+         Windsor Plaza, Alkapuri, Vadodara\n
+         0265-2334620\n +91 9825050077\n
+            www.paraspanhouse.com\n
+            info@paraspanhouse.com\n
+         Timing: 9:00AM - 11:30PM \n</item>
+        <item>            A snack-joint that will provide you with mouth-watering vadapavs and dabelis that can make you go just SHRRRUPPPPPPP! There are famous varieties to choose from which include dahi cheese kachori, sweet corn bhel, cheese corn capsicum, sp. panini grilled, sp. desi burger and much more. What are you waiting for? Just step into the joint and make your taste buds get aroused!\n\n
+
+          Contact Details:\n
+        13-B Paras Socity, Near Cosmos bank, Prabhat Char Rasta, Waghodia Road, Vadodara\n\n
+        +91 7567254085\n +91 7405336149\n
+            \ncadesai164@yahoo.com
+         Timing: 10:00AM - 11:30PM \n</item>
+    </string-array>
+    <string-array name="des2">
+        <item>Ajwa-Nimeta is a fountain garden near the city of Vadodara-Gujarat. It is a popular tourist attraction in the city of Vadodara. Built by Maharaja Sayajirao Gaekwad III in early 20th century the dam and the gardens are a delight for the tourists delight.
+Actually, Ajwa is the reservoir which is also known as Sayaji Sarovar or Ajwa Lake. And Nimeta is the name of the water treatment plant, together the area is popular as Ajwa-Nimeta which provides water for 300,000 people in Vadodara city. The garden was inspired by the popular Krishnaraja Sagar Dam-Vrindavan Gardens in Mysore-Karnataka which is famous for its musical fountain show.
+Adjacent to the dam are the famous Ajwa gardens also called as Vrindavan Garden, which are an adaptation of the famous Vrindavan gardens located in Mysore. It is very famous especially in the evenings for its coloured fountains and a musical fountain.
+There has been proposals to move the animals of zoo in Baroda to this garden, to provide them a more healthy and pollution free environment to live in, since the zoo in Vadodara is located almost at the heart of the city.</item>
+        <item>Jambughoda is a Wildlife Sanctuary situated in Jambughoda Tehsil, in the South Central part of Gujarat, India. It located 70 km from Vadodara and 20 km from prominent tourist places such as Pawagadh and Champaner
+Jambughoda State was a princely state in India within the Bombay Province during the British Raj. Its rulers belonged to the Parmar dynasty and took the title of Thakur Sahib. The last ruler was Ranjitsinhji Gambhirsinhji (b. 1892) who reigned from 27 Sep 1917 to 15 Aug 1947.
+Located in the Panchmahal district of Central Gujarat and 130.38 km2. area declared as a sanctuary in May 1990, Jambughoda Wildlife Sanctuary is home for a variety of animals and plants. A small part of the sanctuary (Targol Round) falls in the adjoining Vadodara district. It’s a magnificent forest of teak, bamboos and other miscellaneous species. The area has two water reservoirs- one at Kada and the other at Targol. These water bodies add to the aesthetic settings and habitat diversity. Leopard is the top predator here whose population has been increasing. The habitat is shared by other animals such as sloth bear, jackal, blue bull, wild boar and four horned antelopes.
+Jambughoda Wild Life SanctuaryThe area has also many varieties of reptiles as well, which include many venomous and non-venomous snakes. The area was a part of the princely state of Jambughoda prior to independence. The most striking feature of the area is the undulating hills having good forest cover with the valleys having small human settlements. The interesting places are Kada, Targol and Jhand Hanuman temple. The most picturesque location is Kada where a beautiful forest rest house stands on the banks of an irrigation reservoir. Kada happens to be a wonderful camping site as well. Due to its location close to a cosmopolitan city of Vadodara, the sanctuary is an ideal resort for city people and very good camping site for nature campers.
+Flora Jambughoda Wild Life Sanctuary Sag, sadad, shisham, khair, mahuda, bamboos, timru, bor, dhav, bili, dudhalo etc.
+Founa Wildlife of this area is considerably rich. Important animals : Sloth bear, leopard, hyena, jackal, blue bull, wild boar, four-horned antelopes, barking deer, porcupine, python, crocodiles, etc.</item>
+        <item>Kabirwad is a famous place situated on an island in the middle of the river Narmada.It can be reached by boats which operate to and from the Shuklatirth Shiva temple. It is an incredible grove of a Banyan tree which has grown over the years and now occupies an area of almost 3 kms. The place is named after the famous Saint Kabir who lived here for many years. It also has an imposing Kabir Temple where visitors and worshippers come to pray. Thus people visit Kabirwad not just for historical reason but also to enjoy the solitude and sanctity offered by this huge Banyan Tree.</item>
+        <item>It is said that the Rajput king Vanraj Chavda established Champaner at the foot of Pavagadh in fond memory of his wise minister Champa. Later, the Patai Raval family ruled it and took care of the boundary. The folk tales say that Mahakali assumed the form of a woman and danced in a Garba during Navaratri. The last Patai, Jaisinh watched her with dirty looks. The deity became angry at Jaisinh and cursed him. As a result, the Muslim emperor of Gujarat, Mahmud Begada assaulted Pavagadh and won the hill on the boundary.
+Patai was defeated and killed. Mahmud Begada shifted his capital from Ahmedabad to Champaner for some time for reasons of diplomacy. He developed the town by constructing buildings such as the fort of Champaner, Uohra mosque, Mandavi, Kirtistambh, the temple of Shalkh, Jama Masjid, Nagina Mosque and Kevda Mosque. The remains of the Palace of Begada are still found near Vad Talav (Banyan Pond) two kilometers (1.25 miles) away from Champaner.
+The government has granted many concessions and offered subsidies to the new industries coming up in this area. As a result of it, Halol and Kalol towns near Pavagadh have turned into virtual industrial estates. A film studio at Halol has this added advantage.
+Pavagadh is the gateway to Panchmahal. The locations of hilly areas around Halol provide good scenery. Pavagadh Hill has total height of 822 meters and you can find many scenic trails to climb including waterfalls during monsoon time. On the hills eastern side, the Rangpur Ashram run by Mr. Hari Parikh works towards the upliftment of the local tribals. The plateau at an altitude of 490 meters is known as Machi Haveli. The bus service has been extended up to Machi.</item>
+        <item>The Sardar Sarovar Dam is a gravity dam on the Narmada river near Navagam, Gujarat in India. It is the largest dam and part of the Narmada Valley Project, a large hydraulic engineering project involving the construction of a series of large irrigation and hydroelectric multi-purpose dams on the Narmada river. The project took form in 1979 as part of a development scheme to increase irrigation and produce hydroelectricity.
+One of the 30 dams planned on river Narmada, Sardar Sarovar Dam (SSD) is the largest structure to be built. Following a number of controversial cases before the Supreme Court of India (1999, 2000, 2003), by 2014 the Narmada Control Authority had approved a series of changes in the final height – and the associated displacement caused by the increased reservoir, from the original 80 m (260 ft) to a final 163 m (535 ft) from foundation. The project will irrigate more than 18,000 km2 (6,900 sq mi), most of it in drought prone areas of Kutch and Saurashtra.</item>
+    </string-array>
+    <string-array name="des">
+        <item>The Gaekwad Baroda Golf Club (GBGC) is today, one of Gujarats premier clubs as also being the only private golf course in and around Baroda. The golf course that envelopes the magnificent Lakshmi Villas Palace makes for a breathtaking view and a royal experience key
+Originally built in the 1930′s as a private course by Maharaja Pratapsinh (Royal family of Baroda), this course was renovated in the 90′s thanks to the efforts of the Maharajas son Samarjitsinh (a former Ranji level cricket player and a golf aficionado who plays to a 8 handicap currently) and opened to the public. Now known as “The Gaekwad Baroda Golf Club (GBGC)” it is one of Gujarats premier clubs"\n""\n"
+The golf course is built around the Lakshmi Vilas palace and makes this course unique as its one of the few golf courses globally with a palace next door.</item>
+        <item> The EME Temple or "Dakshinamurty Temple" is a Shiva Temple run by Indian Army Authorities in the city of Vadodara in the state of Gujarat, western India. It is a unique in concept and design, geodesic structure covered with aluminium sheets.
+
+  Address: EME Rd, Fatehgunj, Vadodara, Gujarat 390002
+Dakshinamurti is another name for Shiva as an ultimate teacher.
+The EME Temple is very unique and eye-catching in concept and design, built by the Electrical and Mechanical Engineering (EME) corps entirely out of aluminum sheets. This is uncommonly modern-looking temple, however, built with holy symbols from various religions.  The five main religions in India are represented by different symbols in the structure and design of EME Temple.
+The ‘kalash‘ on the top of the dome symbolizes Hinduism.
+The ‘dome‘ stands for Islam.
+The ‘tower‘ represents Christianity.
+The ‘golden-structure‘ above the tower represents Buddhism.
+The ‘entrance‘ of the temple stands for Jainism.
+The EME temple houses an idol of Lord Dakshinamurthi. The idol faces the south and is believed to impart his teachings to the world, facing that direction. The whole place is surrounded by acres of lush green peaceful environment drives you through a true holistic experience.
+EME This temple is a major attraction for both tourist and devotees.  It is open from 6:30am-8:30pm</item>
+        <item>It is reputed to have been the largest private dwelling built till date and four times the size of Buckingham Palace. At the time of construction it boasted the most modern amenities such as elevators and the interior is reminiscent of a large European country house. It remains the residence of the Royal Family, who continue to be held in high esteem by the residents of Baroda.
+Its ornate Darbar Hall, which is sometimes the venue of music concerts and other cultural events, has a Venetian mosaic floor, Belgium stained glass windows and walls with intricate mosaic decorations. Outside of the Darbar Hall is an Italinate courtyard of water fountains. The palace houses a remarkable collection of old armoury and sculptures in bronze, marble and terracotta by Fellici. The grounds were landscaped by William Goldring, a specialist from Kew Gardens. The palace is open to the public and an audio tour is available.
+The Palace "compound" covers over 700 acres (2.8 km2) and houses a number of buildings, particularly the Moti Baug Palace and the Maharaja Fateh Singh Museum building. Packs of langoors and peacocks can also be spotted around the palace compound.</item>
+        <item>Nazarbaug Palace or Nazar Bagh Palace is the Gaekwads royal palace in the city of Vadodara, Gujarat state, western India. The Nazar Bagh Palace was built in 1871. It has three storeys and is the oldest palace in Baroda. It was constructed by Malhar Rao Gaekwad in the late 19th century. This palace was used on ceremonial occasions by the Gaekwads. Today it houses the royal family heirlooms.It has solid gold and silver guns, each barrel weighing over 100 kg. In the grounds it also has contains the Shish Mahal, a Palace of Glass.
+The white-stucco palace was the depository of the jewels of the Gaekwad family, and in 1927 the collection was believed to be worth $10,000,000 at the time, including a diamond necklace which carried both the Star of the South diamond, weight around 125 carats, and the English Dresden; another important part of the collection was a cloth embroidered with precious stones and seed pearls, made to cover the tomb of Muḥammad.
+The palace is now in a state of ruin and does not reflect its former glory. The inside has been ripped out after an alleged robbery. The grounds is used as a car park. Visitors are allowed to walk around but not allowed to take photos. Such is the state of this once beautiful palace the root of Gaekwad rule in Vadodara that today it is unrecognisable and possibly the land will be sold off for apartment constructions.</item>
+        <item>Vadodara also known as Baroda formerly, is the third largest city in the Western Indian State of Gujarat, after Ahmedabad and Surat. It is the administrative headquarters of Vadodara District and is located on the banks of the Vishwamitri river, southeast of Ahmedabad, 139 kilometres (86 mi) from the state capital Gandhinagar. Both the railway line and national highway connecting Delhi and Mumbai pass through Vadodara.
+As of 2011 Vadodara had a population of almost 2 million people and is on the list of the top ten fastest developing cities of India. The city is the site of the Lakshmi Vilas Palace, once owned by the royal Gaekwad dynasty of the Marathas. It is also the home of the Maharaja Sayajirao University of Baroda(Vadodara), the largest university in Gujarat. An important industrial, cultural and educational hub of western India, the city houses several institutions of national and regional importance while its major industries include petrochemicals, engineering, chemicals, pharmaceuticals, plastics, IT and foreign exchange services amongst others.</item>
+        <item>Sayaji Baug is a garden located in Vadodara, Gujarat, India. Sayaji Baug was dedicated to the citizens of Vadodara by Maharaja Sayaji Rao Gaekwad III in 1879. Sayajirao III built Sayaji Baug, well known as Kamati Baug, on the river Vishwamitri. Sayaji Baug is the largest garden in Western India, stretching over 113 acres (0.46 km2). It has a rich flora of more than 98 species of trees. The garden is home to the Baroda Museum and Picture Gallery, the Sardar Patel Planetarium, and the Sayaji Baug Zoo. There are three entrance Gate First is at Sayaji square ( formally known as KALA GHODA square) and 3rd one is at Ranapratab square (fatehganj) and secound is in between first and Third. First Entrance gate is just nearby to Vadodara Railway Station and new Bus Stand (expr. 500 m).This is one of the finest Garden in India, and is maintained by Vadodara Municipal Corporation. Thousands of Citizens of the city do come here for morning walk as well as for pleasant view of the Garden.</item>
+        <item>Sur Sagar lake also known as the Chand Talao is a lake situated in middle of the city of Vadodara in the State of Gujarat in India. The lake was rebuilt with stone masonry in the 18th Century. The water in this lake remains in it for the whole year. A concrete wall surrounds the lake on which the people use to sit. A 120 ft tall statue of lord Shiva built by the Vadodara Mahanagar Seva Sadan stands in the middle of the lake. There are many underwater gates in the lake which empty the lake if it overflows. The water from the lake empties in the Vishvamitra River. The lake is used for boating. The statue of Lord Shiva is lit with lights on Mahashivratri.
+As of 2015, boating has been prohibited in the lake for various issues. The lake also serves as idol visarjan spots in various occasions such as Ganesh and Durga Puja</item>
+        <item>The mausoleum known as Hazira contains the graves of Qutb-ud-din Muhammad Khan who was the tutor of Salim, son and successor of Akbar, and also that of his son Naurang Khan who held important offices in Gujarat under Akbar. Qutb-ud-din was uncle of Mirza Aziz Koka foster brother of Akbar and Governor of Gujarat thrice in between 1573 AD. To 1583 AD. He was killed in 1583 by Muzaffar III in the last sultan of Gujarat. Built on high octagonal platform with smaller gates on the cardinal directions and five arches on each side. It is in the style of Mughal tombs at Delhi. The real grave is in an underground chamber and the false grave in the tomb chamber. The Quranic texts in Arabic are carved, inside tomb chamber, on lintels, arches and also above Jali work on eastern side walls. The extant parapet wall on the roof terrace is embellished with Merlon designs in brick red color evident from the traces. The lower portion of cylindrical dome surrounding the tomb was covered with thick plaster of brick red color, The mausoleum has a double dome and seems to have been a garden tomb and vav or step well to its across west the modern road was perhaps used for supplying the water to the garden</item>
+    </string-array>
+    <string-array name="drawer_titles">
+        <item>Home</item>
+        <item>About City</item>
+        <item>History</item>
+        <item>How To Reach</item>
+        <item>Feedback</item>
+        <item>Help/FAQ</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_spot_detail">Spot_detail</string>
+    <string name="title_activity_stay_detail">Stay detail</string>
+    <string name="title_activity_abt_diu">Abt_diu</string>
+    <string name="title_activity_h__t__r">H_T_R</string>
+    <string name="title_activity_abt">Abt</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_addr__life_style">LifeStyle</string>
+    <string name="title_activity_education">Education</string>
+    <string name="title_activity_addr__education">Education</string>
+    <string name="title_activity_health">Health</string>
+    <string name="title_activity_addr__health">Health</string>
+    <string name="title_activity_eat">Eateries</string>
+    <string name="title_activity_addr__eat">Restaurants</string>
+    <string name="title_activity_imp_no">Important Numbers</string>
+    <string name="title_activity_addr_imp_no">Important Numbers</string>
+    <string name="title_activity_transport">Transport</string>
+    <string name="title_activity_addr_transport">Transport</string>
+    <string name="title_activity_attractions_s">Attractions</string>
+    <string name="title_activity_details__attract">Details Attract</string>
+    <string name="title_activity_places_around">Places  around</string>
+    <string name="title_activity_details__places">Details_Places</string>
+    <string name="title_activity_museum">Cricket Ground</string>
+    <string name="title_activity_cricket">Museum</string>
+    <string name="title_activity_amusement">Amusement Parks</string>
+    <string name="title_activity_art_g">Art Gallery</string>
+    <string name="title_activity_detail__eat">Famous Eateries</string>
+    <string name="title_activity_all_eat_details">All_eat_details</string>
+    <string name="title_activity_splash">Vadodara Guide</string>
+    <string name="title_activity_splash2">Vadodara Guide</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_about_vadodara">About_vadodara</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about_app">About_app</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_ho_w_t__r">HoW_t_R</string>
+    <string name="title_activity_map_">MAp_Activity</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+
+    tools:context="com.unb.mayur.diutourism.About">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="\n“About Vadodara”\n"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:background="#00BCD4"
+        android:gravity="center"
+
+        android:textStyle="bold|italic" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="fill_parent"
+            android:padding="4dp"
+
+            android:paddingLeft="16dp"
+            android:layout_margin="16dp"
+
+
+
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="    Vadodara also known as Baroda formerly, is the third largest city in the Western Indian State of Gujarat, after Ahmedabad and Surat. It is the administrative headquarters of Vadodara District and is located on the banks of the Vishwamitri river, southeast of Ahmedabad, 139 kilometres (86 mi) from the state capital Gandhinagar. Both the railway line and national highway connecting Delhi and Mumbai pass through Vadodara.\n\n
+   As of 2011 Vadodara had a population of almost 2 million people and is on the list of the top ten fastest developing cities of India. The city is the site of the Lakshmi Vilas Palace, once owned by the royal Gaekwad dynasty of the Marathas. It is also the home of the Maharaja Sayajirao University of Baroda(Vadodara), the largest university in Gujarat. An important industrial, cultural and educational hub of western India, the city houses several institutions of national and regional importance while its major industries include petrochemicals, engineering, chemicals, pharmaceuticals, plastics, IT and foreign exchange services amongst others.\n\n
+The first recorded history of the city is that of the early trader settlers who settled in the region in 812 AD. The province was mainly Hindu-dominated with Hindu kings ruling until 1297. The Gupta Empire was the first power in the region in the early years of the Christian Era. After fierce battles, the region was taken over by the Chalukya Dynasty. Finally, the kingdom was annexed by the Solanki dynasty. By this time Muslim rule had spread across India, and the reins of power were then snatched by the Delhi Sultans. The city was ruled for a long time by these Sultans, until they were overthrown by the Mughals. The Mughals biggest problem were the Marathas who eventually took over the region. It became the capital of the Maratha Gaekwads.\n
+Sayajirao Gaekwad III (1875–1939) made many public and bureaucratic improvements in the region. Although the British had a major influence on the region, Baroda remained a princely state until Independence. Like many other princely states, Baroda also joined the Dominion of India in 1947
+
+"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView"
+            android:textSize="17dp"
+            android:background="@android:color/transparent" />
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.unb.mayur.vadodara_guide.HoW_t_R">
+    <item android:id="@+id/action_settings" android:title="Share"
+        android:orderInCategory="100" app:showAsAction="never" />
+     <item android:id="@+id/action_settings2" android:title="Help"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/action_settings3" android:title="About"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

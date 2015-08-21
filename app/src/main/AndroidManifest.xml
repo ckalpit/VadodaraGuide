@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unb.mayur.vadodara_guide" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.example.mayur.diu_guide.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <!--
+ The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar" >
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Stay_detail"
+            android:label="@string/title_activity_stay_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDisCw9ERJEmPPfAei8kqODg3nq1E8QcQM" />
+
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.LifeStyle"
+            android:label="@string/title_activity_addr__life_style"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_LifeStyle"
+            android:label="@string/title_activity_addr__life_style"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Education"
+            android:label="@string/title_activity_education"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_Education"
+            android:label="@string/title_activity_addr__education"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Health"
+            android:label="@string/title_activity_health"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_Health"
+            android:label="@string/title_activity_addr__health"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Eat"
+            android:label="@string/title_activity_eat"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_Eat"
+            android:label="@string/title_activity_addr__eat"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Imp_no"
+            android:label="@string/title_activity_imp_no"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_imp_no"
+            android:label="@string/title_activity_addr_imp_no"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Transport"
+            android:label="@string/title_activity_transport"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Addr_transport"
+            android:label="@string/title_activity_addr_transport"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Attractions_s"
+            android:label="@string/title_activity_attractions_s"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Details_Attract"
+            android:label="@string/title_activity_details__attract"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Places_around"
+            android:label="@string/title_activity_places_around"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Details_Places"
+            android:label="@string/title_activity_details__places"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Museum"
+            android:label="@string/title_activity_museum"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Cricket"
+            android:label="@string/title_activity_cricket"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Amusement"
+            android:label="@string/title_activity_amusement"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Art_g"
+            android:label="@string/title_activity_art_g"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Detail_Eat"
+            android:label="@string/title_activity_detail__eat"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.All_eat_details"
+            android:label="@string/title_activity_all_eat_details"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Splash"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Splash2"
+            android:label="@string/title_activity_splash2"
+            android:theme="@style/AppTheme" >
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.History"
+            android:label="@string/title_activity_history" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.About_vadodara"
+            android:label="@string/title_activity_about_vadodara" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Help"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.About_app"
+            android:label="@string/title_activity_about_app" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.Feedback"
+            android:label="@string/title_activity_feedback" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.HoW_t_R"
+            android:label="@string/title_activity_ho_w_t__r" >
+        </activity>
+        <activity
+            android:name="com.unb.mayur.vadodara_guide.MAp_Activity"
+            android:label="@string/title_activity_map_" >
+        </activity>
+    </application>
+
+</manifest>

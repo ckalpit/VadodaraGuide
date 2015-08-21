@@ -1,0 +1,98 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:background="#250d1fff"
+    android:layout_height="fill_parent"
+    tools:context="com.unb.mayur.theam_listview.detail"
+    android:orientation="vertical"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+       android:orientation="vertical"
+        android:layout_height="match_parent"
+
+        android:weightSum="1">
+
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:src="@drawable/about_city"
+
+                android:id="@+id/imageView2"
+                android:layout_weight="0.35"
+
+
+                android:scaleType="fitXY"
+
+
+                />
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_weight="0.65"
+            android:layout_height="0dp">
+
+        <Button
+                android:layout_width="fill_parent"
+
+
+                android:layout_height="wrap_content"
+                android:text="Get Direction "
+                android:id="@+id/button"
+                android:onClick="Show_map"
+                android:layout_margin="10dp"
+        />
+
+
+
+        <ScrollView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:id="@+id/scrollView">
+
+            <TextView
+
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="jcc smaj dak bvkdbvbdkdkvb dx, dx. dxl nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="0dp"
+                android:layout_marginLeft="00dp"
+                android:layout_marginRight="00dp"
+                android:padding="10dp"
+
+
+                android:id="@+id/tv"
+
+
+
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                style="@style/AppTheme"
+                android:background="@android:color/transparent"
+                android:elegantTextHeight="false"
+                android:focusable="true"
+                android:fontFamily="@string/abc_searchview_description_submit"
+                android:outlineProvider="paddedBounds"
+                android:shadowColor="#ff87ffc8"
+                android:singleLine="false"
+                android:textColor="#ff000000" />
+
+
+
+
+    </ScrollView>
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
